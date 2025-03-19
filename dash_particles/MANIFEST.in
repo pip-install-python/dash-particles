@@ -1,0 +1,11 @@
+include dash_particles/dash_particles.min.js
+include dash_particles/dash_particles.min.js.map
+include dash_particles/async-*.js
+include dash_particles/async-*.js.map
+include dash_particles/*-shared.js
+include dash_particles/*-shared.js.map
+include dash_particles/metadata.json
+include dash_particles/package-info.json
+include README.md
+include LICENSE
+include package.json
