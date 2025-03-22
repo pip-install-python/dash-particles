@@ -9,10 +9,10 @@ What's the use case? I want to have a nice background for my Dash app for login 
 
 It's not yet the full feature set of [particles.js](https://particles.js.org/), but it's a start, feel free to contribute! I just wanted to get something out there for a project I'm working on.
 
-![Dash Particles Demo - Snow](./assets/particles_demo_snow.gif)
-![Dash Particles Demo - Bubbles](./assets/particles_demo_bubbles.gif)
-![Dash Particles Demo - Repulse](./assets/particles_demo_repulse.gif)
-![Dash Particles Demo - Attract](./assets/particles_demo_attract.gif)
+![Dash Particles Demo - Snow](https://github.com/jeffgallini/dash-particles/blob/master/dash_particles/assets/particles_demo_snow.gif?raw=true)
+![Dash Particles Demo - Bubbles](https://github.com/jeffgallini/dash-particles/blob/master/dash_particles/assets/particles_demo_bubbles.gif?raw=true)
+![Dash Particles Demo - Repulse](https://github.com/jeffgallini/dash-particles/blob/master/dash_particles/assets/particles_demo_repulse.gif?raw=true)
+![Dash Particles Demo - Attract](https://github.com/jeffgallini/dash-particles/blob/master/dash_particles/assets/particles_demo_attract.gif?raw=true)
 
 ## Features
 
