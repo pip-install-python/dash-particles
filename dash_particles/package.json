@@ -1,6 +1,6 @@
 {
   "name": "dash_particles",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is Particles.js, but in Dash!",
 "repository": {
     "type": "git",

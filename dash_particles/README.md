@@ -5,7 +5,14 @@
 
 A Dash component library that brings interactive particle animation backgrounds to your Dash applications. Built on top of the [tsParticles](https://particles.js.org/) library.
 
-![Dash Particles Demo](./dash_particles/assets/dash_particles_demo.gif)
+What's the use case? I want to have a nice background for my Dash app for login screens, etc. I like the [particles.js](https://particles.js.org/) library, but I want to use it in Dash. It's a fairly niche use case, but a nice package to have for Dash.
+
+It's not yet the full feature set of [particles.js](https://particles.js.org/), but it's a start, feel free to contribute! I just wanted to get something out there for a project I'm working on.
+
+![Dash Particles Demo - Snow](./assets/particles_demo_snow.gif)
+![Dash Particles Demo - Bubbles](./assets/particles_demo_bubbles.gif)
+![Dash Particles Demo - Repulse](./assets/particles_demo_repulse.gif)
+![Dash Particles Demo - Attract](./assets/particles_demo_attract.gif)
 
 ## Features
 
