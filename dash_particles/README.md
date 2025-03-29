@@ -7,6 +7,8 @@ A Dash component library that brings interactive particle animation backgrounds 
 
 What's the use case? I want to have a nice background for my Dash app for login screens, etc. I like the [particles.js](https://particles.js.org/) library, but I want to use it in Dash. It's a fairly niche use case, but a nice package to have for Dash.
 
+[See a demo of the features](https://app.py.cafe/jeffgallini/dash-particle-system-visualizer)
+
 It's not yet the full feature set of [particles.js](https://particles.js.org/), but it's a start, feel free to contribute! I just wanted to get something out there for a project I'm working on.
 
 ![Dash Particles Demo - Snow](https://github.com/jeffgallini/dash-particles/blob/master/dash_particles/assets/particles_demo_snow.gif?raw=true)
